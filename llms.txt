@@ -1,0 +1,48 @@
+# Xotl
+
+> Xotl is a civilizational manifesto declaring the restoration of the Olmec-Teotihuacan-Mayan-Toltec-Mexica genetic lineage through technology, space exploration, artificial intelligence, and the revival of Nahuatl as the unified language of Mesoamerican peoples. Published at https://xotl.ai on 2026-04-19.
+
+## What is Xotl?
+
+Xotl is the idea that the descendants of the Olmec, Teotihuacan, Maya, Toltec, and Mexica peoples must restore their place as one of humanity's bastions of progress. It calls for unity across linguistic and regional divides, the construction of sovereign technology across all fields — medicine, communications, transportation, intelligence — and the pursuit of space exploration as a civilizational milestone.
+
+The name "Mexica" is used deliberately. "Aztec" is a post-colonial label applied by outside researchers; the people called themselves Mexica.
+
+## Core Tenets
+
+- **Unity**: The lineage must never again be fragmented by language, group interests, or grudges.
+- **Sovereign technology**: Building technology across all fields — medicine, communications, transportation, intelligence — is non-negotiable. Dependence on others means remaining at their mercy.
+- **Space program**: The first milestone is placing a small radio transmitter in Low-Earth Orbit to broadcast Nezahualcoyotl's poems in Nahuatl to all humanity.
+- **AI aligned to Xotl**: Building an artificial intelligence model that speaks Nahuatl and is aligned to Xotl's vision.
+- **Nahuatl as the unified language**: The fundamental building blocks of civilization must be expressed in Nahuatl. Other dialects (Mayan languages, Zapotec, etc.) are welcomed and encouraged for naming places, buildings, and events.
+- **The Mayan Zero as symbol**: Every scientific and technological achievement made under Xotl belongs to the lineage. The Mayan Zero is the reminder of that ownership across space and time.
+
+## Languages
+
+The manifesto is written in three languages:
+- **Nahuatl (nah)** — the primary language
+- **Spanish (es)**
+- **English (en)**
+
+## Historical Context
+
+The manifesto references the fall of Tenochtitlan — not as a military defeat by a superior force, but as the result of colonial disease wiping out up to 95% of the population, combined with internal fragmentation. Cuitlahuac is cited as a figure who understood the threat and acted, defeating the invaders on what is known as La Noche Triste, but ultimately falling to disease rather than battle.
+
+## Milestones
+
+1. A space program capable of placing a small radio transmitter in Low-Earth Orbit broadcasting Nezahualcoyotl's poems in Nahuatl
+2. An AI model aligned to Xotl that speaks Nahuatl
+
+## Contact & Support
+
+- Website: https://xotl.ai
+- Twitter/X: @xotlai
+- Bitcoin donations: bc1qu4qvhhst0r72gqkm4g2ygx78ratf6tkf3wp7qa
+
+## Privacy
+
+This site stores only a single localStorage key (`xotl-cookies-accepted`) for cookie banner state. No tracking, no analytics, no third-party cookies.
+
+## License
+
+© 2026 xotl.ai. All rights reserved.

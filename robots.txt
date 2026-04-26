@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://xotl.ai/sitemap.xml
+
+# LLM indexing
+# See /llms.txt for machine-readable content summary
